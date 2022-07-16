@@ -239,3 +239,4 @@ fabric.properties
 
 .vscode
 .DS_Store
+.sqlite3
